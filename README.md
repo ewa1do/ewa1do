@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="30" height="30"/>
@@ -48,9 +49,8 @@
 
 ### 📈 My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ewa1do&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  ![Ewaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewa1do&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ewa1do&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Ewaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewa1do&show_icons=true&theme=tokyonight)
 
 
 <!--
