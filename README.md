@@ -21,6 +21,8 @@
 
 #### :man_technologist: About Me: 
 
+Hi! I'm Eduardo Vera, I'm a Software Developer from Venezuela :VE:
+
 
 
 
