@@ -21,7 +21,7 @@
  -->
 ---
 
-#### :man_technologist: About Me: 
+### :man_technologist: About Me: 
 
 - 🇻🇪 I'm a Software Developer from Venezuela
 - 🔭 I'm looking to land my first job as a Web Developer
