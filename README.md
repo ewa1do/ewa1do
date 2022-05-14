@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/eduardo-vera-612626191/">
+  <a href="https://www.linkedin.com/in/eduardo-vera-612626191/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230072b1?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <img src="https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="logo-twitter"/>
