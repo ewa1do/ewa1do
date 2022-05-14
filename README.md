@@ -24,7 +24,7 @@
 #### :man_technologist: About Me: 
 
 - 🇻🇪 I'm a Software Developer from Venezuela
-- 🔭 I'm looking to landing my first job as a Web Developer
+- 🔭 I'm looking to land my first job as a Web Developer
 - 🌱 Proficiency with Javascript in the Frontend 
 - ⚡ Currently learning Backend Development with Node.js
 - 🧠 Lifelong Learner
