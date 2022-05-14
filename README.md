@@ -23,9 +23,10 @@
 
 - Hi! I'm Eduardo Vera, I'm a Software Developer from Venezuela 🇻🇪
 - 🔭 I'm looking to land my first job as a Web Developer
-- 🌱 Proficiency in Javascript in the Frontend, And currently learning Backend Development with Node.js
+- 🌱 Proficiency in Javascript in the Frontend 
+- ⚡ Currently learning Backend Development with Node.js
 - 🧠 Lifelong Learner
-- How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vera-612626191/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vera-612626191/)
 
 
 
