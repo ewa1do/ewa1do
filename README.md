@@ -44,6 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
  </div>
 
+--- 
+
+### 📈 My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ewa1do)](https://git.io/streak-stats)
 
 
 <!--
