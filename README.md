@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761151f31f899444ac109570010daf1b8681fe18d8c1&rid=giphy.gif&ct=g" alt="logo-linkedin" width="250"/>  
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" padding-top="10">
   <a href="https://www.linkedin.com/in/eduardo-vera-612626191/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230072b1?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
