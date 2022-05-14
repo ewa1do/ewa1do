@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
 ---
@@ -26,7 +26,7 @@
 - 🌱 Proficiency in Javascript in the Frontend 
 - ⚡ Currently learning Backend Development with Node.js
 - 🧠 Lifelong Learner
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vera-612626191/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vera-612626191/)
 
 
 
