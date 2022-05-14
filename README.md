@@ -1,4 +1,4 @@
-# Hi! I'm Eduardo Vera 🤘
+<h1 align="center"> Hi! I'm Eduardo Vera 🤘</h1>
 ---
 
 <div id="header" align="center" width='500px'>
