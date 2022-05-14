@@ -24,7 +24,7 @@
 #### :man_technologist: About Me: 
 
 - 🇻🇪 I'm a Software Developer from Venezuela
-- 🔭 I'm looking to land my first job as a Web Developer
+- 🔭 I'm looking to landing my first job as a Web Developer
 - 🌱 Proficiency in Javascript in the Frontend 
 - ⚡ Currently learning Backend Development with Node.js
 - 🧠 Lifelong Learner
@@ -41,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
  </div>
 
 
