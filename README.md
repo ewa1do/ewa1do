@@ -9,7 +9,7 @@ Hi, my name is Eduardo and I am a software developer with 1+ years of experience
 * 🌍  I'm based in Maracaibo, Venezuela
 * 🖥️  See my portfolio at [here](http://eduardovera.netlify.app)
 * ✉️  You can contact me at [this.eduardovera@gmail.com](mailto:this.eduardovera@gmail.com)
-* 🧠  I'm learning PHP and Laravel
+* 🧠  Currently learning Next.js
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/ewa1do" target="_blank" rel="noreferrer"><img
