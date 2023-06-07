@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Hi, my name is Eduardo and I am a software developer with 1+ years of experience in the industry. I have 6 months of working experience in both frontend and backend development. My main expertise lies in Backend development using Express.js and MySQL and frontend development using React.js.
+Hi, my name is Eduardo and I am a software developer with 2 years of experience in the industry. I have working experience in both frontend and backend development. My main expertise lies in Backend development using Express.js and MySQL and frontend development using React.js.
 
 * 🌍  I'm based in Maracaibo, Venezuela
 * 🖥️  See my portfolio at [here](http://eduardovera.vercel.app)
