@@ -10,7 +10,7 @@ Hi, my name is Eduardo and I am a software developer with 2 years of experience 
 * 🖥️  See my portfolio at [here](http://eduardovera.vercel.app)
 * ✉️  You can contact me at [this.eduardovera@gmail.com](mailto:this.eduardovera@gmail.com)
 * 🧠  Currently learning Next.js
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🤝  I'm open to collaborate on Interesting Projects
 
 <a href="https://www.github.com/ewa1do" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ewa1do?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
