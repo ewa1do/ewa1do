@@ -7,7 +7,7 @@ Software Developer
 Hi, my name is Eduardo and I am a software developer with 3+ years of experience in the industry. I have working experience in both frontend and backend development. My main expertise lies in Backend development using Express.js and MySQL and frontend development using React.js.
 
 * 🌍  I'm based in Maracaibo, Venezuela
-* 🖥️  See my portfolio at [here](http://eduardovera.vercel.app)
+<!--* 🖥️  See my portfolio at [here](http://eduardovera.vercel.app) -->
 * ✉️  You can contact me at [this.eduardovera@gmail.com](mailto:this.eduardovera@gmail.com)
 * 🧠  Currently learning Three.js and Python
 * 🤝  I'm open to collaborate on Interesting Projects
